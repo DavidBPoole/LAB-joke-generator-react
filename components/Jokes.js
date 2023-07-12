@@ -5,7 +5,7 @@ export default function Jokes({ joke, btnText }) {
   return (
     <>
       <h1 style={{ color: 'darkblue' }}>{joke.setup}</h1>
-      <h1 style={{ color: 'blue' }}>{btnText !== 'Get Punchline' ? joke.punchline : ''}</h1>
+      <h1 style={{ color: 'white' }}>{btnText !== 'Get Punchline' ? joke.punchline : ''}</h1>
     </>
   );
 }
