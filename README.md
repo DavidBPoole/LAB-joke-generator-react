@@ -3,7 +3,7 @@
 # Overview
 A joke is displayed when the "Get Joke" button is clicked and the punchline is delivered when the same button now displaying "Get Punchline" is clicked followed by the button now displaying "Get New Joke", which repeats the process.
 
-[View App](#https://davidbpoole-joke-generator-react.netlify.app/)
+[View App](https://davidbpoole-joke-generator-react.netlify.app/)
 
 ## Contributors
 [David Poole](https://github.com/DavidBPoole)
