@@ -21,3 +21,11 @@ body {
   /* background-color: #88effd; */
   background-color: rgb(87, 177, 210);
 }
+
+.container {
+  text-align: center;
+}
+
+.jokeBody {
+  margin-top: 30rem;
+}
